@@ -1,3 +1,6 @@
+
+
+<!---
 - 👋 Hi, I’m @miixel
 - 👀 I’m interested in learning the best technologies of our time and gaining stronger coding skills. Reach out to 
 me if you have any project or technology recommendations!
