@@ -1,4 +1,4 @@
-
+Projects coming soon.
 
 <!---
 - 👋 Hi, I’m @miixel
